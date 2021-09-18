@@ -32,8 +32,8 @@ Note: there is a need for authentication. the response is in JSON format.
 
 ## Response
 ```s h
-201
-```- The resource is successfully created.
+201 - The resource is successfully created.
+```
 
 
 ## how to create an event
